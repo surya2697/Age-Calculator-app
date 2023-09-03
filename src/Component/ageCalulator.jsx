@@ -70,6 +70,7 @@ const AgeCalulator = () => {
       setAgeYear(years);
       setAgeMonth(months);
       setAgeDays(days);
+      setError("")
     }
   };
 
