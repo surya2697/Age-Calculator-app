@@ -20,7 +20,7 @@ const AgeCalulator = () => {
   };
   const hanldeSubmit = (e) => {
     e.preventDefault();
-
+     
     //setAge(formData)
     console.log(formData);
     if (!formData.day || !formData.month || !formData.year) {
@@ -71,6 +71,11 @@ const AgeCalulator = () => {
       setAgeMonth(months);
       setAgeDays(days);
       setError("")
+      setFormData({
+        year: "",
+        month: "",
+        day: "",
+      })
     }
   };
 
