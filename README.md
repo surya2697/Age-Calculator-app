@@ -30,15 +30,15 @@ Users should be able to:
 
 ### Screenshot
 
-(./images/app-calculator-app.png)
+![](./public/images/age-calculator-app.png)
 
 
 
 
 ### Links
 
-- Solution URL: [Solution](https://github.com/surya2697/Age-Calculator-app)
-- Live Site URL: [](https://age-calculator-app-beta-seven.vercel.app/)
+- Solution URL: [Check Solution](https://github.com/surya2697/Age-Calculator-app)
+- Live Site URL: [Check Live App](https://age-calculator-app-beta-seven.vercel.app/)
 
 ## My process
 
